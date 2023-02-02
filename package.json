@@ -1,7 +1,7 @@
 {
   "name": "app-movies-byte4bit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prueba técnica",
   "main": "index.js",
   "scripts": {
     "start": "node ./app.js",
@@ -25,6 +25,14 @@
     "multer": "^1.4.5-lts.1"
   },
   "engines": {
-      "node":"18.x"
-    } 
+    "node": "18.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teffidev/app-movies-byte4bit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teffidev/app-movies-byte4bit/issues"
+  },
+  "homepage": "https://github.com/teffidev/app-movies-byte4bit#readme"
 }
