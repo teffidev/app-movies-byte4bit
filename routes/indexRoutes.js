@@ -14,4 +14,5 @@ router.use("/comments", commentsRoutes);
 router.use("/register", authRoutes);
 router.use("/login", authRoutes);
 
+
 module.exports = router;

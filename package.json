@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "teffidev",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -25,6 +25,6 @@
     "multer": "^1.4.5-lts.1"
   },
   "engines": {
-      "node":"16.x"
+      "node":"18.x"
     } 
 }
